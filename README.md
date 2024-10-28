@@ -2,9 +2,25 @@
 
 ## Problem Definition
 
+The aim of this analysis is to understand patterns and trends in ultra-marathon events and participants by exploring historical data on race distances, athlete performance, age, and gender distributions. This includes examining variations in performance over time and identifying factors influencing participation and success in ultra-marathon events, especially in specific regions like Latvia. Additionally, we seek to analyze individual athlete performance trends, such as the effect of age on speed, and to identify factors driving increased participation, especially by comparing performance metrics across various distance categories, gender groups, and countries. Insights will inform event organizers, athletes, and researchers on factors affecting endurance running performance and trends in ultra-marathon events.
+
+Key questions include:
+- How do average speed, age, and performance distributions vary across different countries and events?
+- What are the significant trends in participation by gender and age?
+- How does athlete performance change over time, particularly among repeat participants?
+- What event characteristics (e.g., distance, location) influence the popularity of ultra-marathons and participation patterns?
+
+
+By addressing these questions, the analysis help a business or associations with:
+- Event Planning: Target race formats and timing to attract participants effectively.
+- Sponsorships: Use demographic insights to secure partnerships with relevant brands.
+- Resource Allocation: Allocate facilities and support based on event size and participant needs.
+- Training Programs: Tailor athlete training to optimize performance based on age and endurance trends.
+- Community Engagement: Promote ultra-marathons to boost local tourism and fitness culture.
+- Product Innovation: Guide development of sports tech and gear based on endurance data.
 
 ## Dataset
-Dataset was taken from kaggle.com ([Available here](https://www.kaggle.com/datasets/aiaiaidavid/the-big-dataset-of-ultra-marathon-running))
+Dataset was acquired from kaggle.com ([Available here](https://www.kaggle.com/datasets/aiaiaidavid/the-big-dataset-of-ultra-marathon-running))
 
 Dataset consists of:
 - 7,461,226 ultra-marathon race records from 1,641,168 unique athletes
